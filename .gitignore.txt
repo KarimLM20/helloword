@@ -1,7 +1,7 @@
 .gitignore
 
 # Fichier à ignorer
-secret.txt
+secrets.txt
 
 #Ignorer tous les fichiers d'un type spécifique
 *.txt
